@@ -1,0 +1,15 @@
+PROG
+ROOT
+	FILE	MAIN.ST
+	FILE	SBR_Alarm_Sensors.ST
+	FILE	SBR_Arm_StateMachine.ST
+	FILE	SBR_Controller.ST
+	FILE	SBR_Life_Check.LD
+	FILE	SBR_Motion_Control.LD
+	FILE	SBR_RC_Control.ST
+	FILE	SBR_Sensor_Mapping.LD
+	FILE	INT_001.ST
+FB
+ROOT
+FC
+ROOT
